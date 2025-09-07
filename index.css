@@ -107,6 +107,11 @@ p, dl {
 }
 
 dt {
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+dd + dt {
   margin-top: 1em;
   font-size: 1.25em;
   font-weight: bold;
